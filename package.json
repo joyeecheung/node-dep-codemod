@@ -1,0 +1,19 @@
+{
+  "name": "node-dep-codemod",
+  "version": "1.0.0",
+  "description": "A collection of codemod scripts for use with JSCodeshift",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "codemod",
+    "recast"
+  ],
+  "author": "Joyee Cheung <joyeec9h3@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.18.0",
+    "jest": "^22.3.0"
+  }
+}
